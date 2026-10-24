@@ -1,12 +1,5 @@
 # Full-Stack Task Manager
 
-[![CI](https://github.com/densklll/fullstack-task-manager/actions/workflows/ci.yml/badge.svg)](https://github.com/densklll/fullstack-task-manager/actions/workflows/ci.yml)
-[![Django](https://img.shields.io/badge/Django-4.2-092E20?logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![DRF](https://img.shields.io/badge/DRF-3.14-009688)](https://www.django-rest-framework.org/)
-[![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)](https://react.dev/)
-[![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-1.8-764ABC?logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
-[![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)](https://docs.docker.com/compose/)
-
 Full-stack task management app: **Django REST** API with **JWT**, **Celery** + **Redis** for background work, **Swagger / Redoc** docs, and a **React** client with **Redux Toolkit**, **React Router**, and **Styled Components**. Packaged with **Docker Compose** and **GitHub Actions** CI.
 
 ---
